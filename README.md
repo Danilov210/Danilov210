@@ -21,8 +21,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: miracleofluck23@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-danilov/)  
+- 📧 Email: alexanderdanilovwork@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-danilov-software-engineer)  
 - 💬 I'm open to collaboration, mentorship, and job opportunities!
 
 ---
